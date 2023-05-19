@@ -1,0 +1,27 @@
+{
+  "name": "ironsoftware-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compress:svg": "svgo -f images -o images"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeigniter4/appstarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeigniter4/appstarter/issues"
+  },
+  "homepage": "https://github.com/iron-software-static",
+  "dependencies": {},
+  "devDependencies": {
+    "svgo": "^3.0.2"
+  }
+}
