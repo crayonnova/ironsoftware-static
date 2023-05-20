@@ -12,14 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeigniter4/appstarter.git"
+    "url": "https://github.com/crayonnova/ironsoftware-static.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codeigniter4/appstarter/issues"
   },
-  "homepage": "https://github.com/iron-software-static",
+  "homepage": "https://crayonnova.github.io/ironsoftware-static/",
   "dependencies": {},
   "devDependencies": {
     "svgo": "^3.0.2"
